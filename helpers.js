@@ -3,6 +3,7 @@ export function getRandomColor() {
     100
   )}%)`;
 }
+export const teachers = ["Jonas", "Dannie"];
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
